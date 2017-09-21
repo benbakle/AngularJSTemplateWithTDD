@@ -1,0 +1,13 @@
+﻿{
+  "EnableCodeCoverage": "false",
+  "EnableTestFileBatching": "false",
+  "Framework": "jasmine",
+  "FrameworkVersion": "2",
+  "References": [
+    { "Path": "../../angulartemplate/scripts/libraries/angularjs/angular.min.js" },
+    { "Path": "../../angulartemplate/scripts/libraries/angularjs/angular-mocks.js" },
+    { "Path": "../../angulartemplate/scripts/controllers/templateController.js" },
+    { "Path": "../../angulartemplate/scripts/services/templateService.js" }
+  ],
+  "TestFileTimeout": 15000
+}

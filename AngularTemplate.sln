@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTemplate", "AngularTemplate\AngularTemplate.csproj", "{75FF5D43-97AC-444A-AA4A-763BD08088BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTemplate.Tests", "AngularTemplate.Tests\AngularTemplate.Tests.csproj", "{5CC9F275-28FD-40BD-B30E-4AD52F2E3C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FF5D43-97AC-444A-AA4A-763BD08088BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FF5D43-97AC-444A-AA4A-763BD08088BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FF5D43-97AC-444A-AA4A-763BD08088BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FF5D43-97AC-444A-AA4A-763BD08088BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC9F275-28FD-40BD-B30E-4AD52F2E3C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC9F275-28FD-40BD-B30E-4AD52F2E3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC9F275-28FD-40BD-B30E-4AD52F2E3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC9F275-28FD-40BD-B30E-4AD52F2E3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
